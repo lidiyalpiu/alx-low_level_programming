@@ -1,4 +1,4 @@
-#nclude<stdiio.h>
+#include<stdiio.h>
 /**
  * main - Entry point 
  * 

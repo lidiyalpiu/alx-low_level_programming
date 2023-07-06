@@ -18,6 +18,7 @@ int is_prime_number(int n)
  * @i: the iteration times
  * return: 1 for prime or 0 composite
  */
+
 int check_prime(int n, int i)
 {
 	if (n <= 1)
